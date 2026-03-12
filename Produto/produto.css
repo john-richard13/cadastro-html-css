@@ -113,3 +113,11 @@ input{
     text-align: center;
 }
 
+.botao-voltar{
+    background-color: #2563eb;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
